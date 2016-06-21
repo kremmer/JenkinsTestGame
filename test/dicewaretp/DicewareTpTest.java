@@ -46,7 +46,8 @@ public class DicewareTpTest {
         String[] args = null;
         DicewareTp.main(args);
         // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
+       // fail("The test case is a prototype.");
+        System.out.println("Running Sucess");
     }
     
 }
